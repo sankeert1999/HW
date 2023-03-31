@@ -1,2 +1,2 @@
-# HW
-fgggg
+# Quick Fiji macros
+
